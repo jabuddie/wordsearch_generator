@@ -1,20 +1,21 @@
 # wordsearch_generator
 
-##Description
+## Description
 Python Wordsearch Generator 
 
-##Build
+## Build
 Python3
 For Ubuntu Linux, I used Ubuntu 18.04.3
 Linux OS required to use the random words puzzle generator, as it imports a predefined list from a linux library
 
-##Use
+## Use
 When run, the user must input a puzzle size which then determines the number of words used for the puzzle. 
 From there, the user can choose to have the words randomly chosen or input manually.
 
 Run from terminal >python3 wordsearch_generator.py
 
 Sample Output:
+'''
 |_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _|
 |T  _  _  C  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _|
 |A  _  _  A  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _|
@@ -76,3 +77,4 @@ LIBRA                ARIES                SCORPIO              TAURUS
 PISCES               GEMINI               LEO                  CANCER
 
 LUNER                STARS                ZODIAC               ASTROLOGY
+'''
